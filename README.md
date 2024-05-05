@@ -35,13 +35,13 @@ To run **Tourly** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone 
+sudo git clone https://github.com/ABDUL-REHMAN345/Tourly.git
 ```
 
 Windows:
 
 ```bash
-git clone 
+git clone https://github.com/ABDUL-REHMAN345/Tourly.git
 ```
 
 ### Contact
